@@ -19,7 +19,6 @@
 	"homepage": "https://github.com/cssivision/react-native-qrcode#readme",
 	"dependencies": {
 		"create-react-class": "^15.6.0",
-		"prop-types": "^15.5.10",
-		"react-native-webview": "https://github.com/yuntitech/react-native-webview.git#c2f00309"
+		"prop-types": "^15.5.10"
 	}
 }
